@@ -1,0 +1,20 @@
+img {
+	display: inline;
+	width: 400px;
+border-radius: 20%;
+margin-top: 20px;
+}
+body{
+	display: flex;
+	background-color: #d480a74f;
+}
+p {
+	display: inline;
+	width: 60%;
+	display: inline-block;
+	color: #4e303e;
+	margin-left: 300px;
+	margin-top: 20px;
+font-size: 24px;
+
+}
